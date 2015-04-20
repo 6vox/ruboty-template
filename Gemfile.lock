@@ -1,8 +1,8 @@
 GIT
   remote: https://gist.github.com/toshima66/e29111373e88ed6fb4a6
-  revision: bf3990f13eca1e868348700551ca7191e0e2257d
+  revision: a7c5def15fb8e2595d92d993c89c826ccb794ccf
   specs:
-    roulette (0.0.4)
+    roulette (0.0.5)
 
 GEM
   remote: https://rubygems.org/
